@@ -23,7 +23,7 @@ body {
     text-align: center;
     width: 90%;
     /* Slightly wider for better responsiveness */
-    max-width: 600px;
+    max-width: 650px;
     /* Set a max-width for larger screens */
     min-height: min-content;
     /* Allow the container to grow with content */
